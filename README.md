@@ -1,3 +1,19 @@
+👋 Hello there! I'm Tuğçe, a passionate physics engineering student based in Ankara.
+
+🚀 I'm enthusiastic about technology and enjoy diving into various programming languages and platforms. My journey into the world of programming began in 2020.
+
+🎓 Currently, I'm studying Physics Engineering and Management Information Systems. I'm constantly seeking opportunities to expand my knowledge and skills.
+
+💡 I'm enthusiastic about collaborating on open-source projects and continually exploring innovative solutions. Lately, I've been channeling my efforts into diving deep into the realm of AI technologies and blockchain experimentation.
+
+🦾 Recently, I've embarked on a journey to learn Rust, expanding my toolkit of skills alongside my passion for AI and blockchain technologies. 💡
+
+🌐 You can find me on https://twitter.com/0phoenix_ where I occasionally share insights, write about my experiences, and connect with fellow developers.
+
+📫 Feel free to reach out to me at yalntue.teyn@gmail.com. I'm always open to interesting conversations, collaboration opportunities, or just saying "hi"!
+
+🌟 Let's connect and create something amazing together!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tugce.yalcin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tugce.yalc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tugce-yalcin-51b807230/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/0phoenix_) 
