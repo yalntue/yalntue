@@ -8,7 +8,7 @@
 
 🦾 Recently, I've embarked on a journey to learn Rust, expanding my toolkit of skills alongside my passion for AI and blockchain technologies. 💡
 
-🌐 You can find me on https://twitter.com/0phoenix_ where I occasionally share insights, write about my experiences, and connect with fellow developers.
+🌐 You can find me on twitter (@0phoenix_) where I occasionally share insights, write about my experiences, and connect with fellow developers.
 
 📫 Feel free to reach out to me at yalntue.teyn@gmail.com. I'm always open to interesting conversations, collaboration opportunities, or just saying "hi"!
 
